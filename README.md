@@ -1,4 +1,4 @@
-# demoJerseySwagger
+# Demonstração de Spring Boot com Jersey e Swagger
 
 Microservices using Spring Boot, Jersey e Swagger
 
